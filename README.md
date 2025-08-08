@@ -35,8 +35,21 @@ The solutions are structured in a **Jupyter Notebook** with:
 - `company_db.sql` → Database schema and seed data
 
 
-## 🚀 How to Use
-### 1️⃣ Clone the Repository
+🚀 How to Use
+ 1️⃣ Clone the Repository
 
+https://github.com/Muradamen/SQL_Subqueries_CTE_and_Views.git
+cd sql-subqueries-ctes-views-practice
+ 🚀 How to Use
+1️⃣ Clone the Repository
 git clone https://github.com/YOUR_GITHUB_USERNAME/sql-subqueries-ctes-views-practice.git
 cd sql-subqueries-ctes-views-practice
+2️⃣ Import the Database
+Run in MySQL
+SOURCE company_db.sql;
+3️⃣ Open the Notebook
+jupyter notebook SQL_Subqueries_CTE_and_Views_Solved.ipynb
+#SQL #Data Analyst Data Scientist Subquery CTE Views Database MySQL Data Analysis SQL Practice Data Engineering Data Preparation
+
+📜 License
+This project is licensed under the MIT License — feel free to use, share, and adapt.
